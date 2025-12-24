@@ -42,6 +42,9 @@ git clone <repository>
 cd goproxy
 go mod tidy
 go build -o goproxy .
+
+# or
+go install github.com/hakimonr/goproxy@latest
 ```
 
 ## 🔧 Quick Start
