@@ -1,6 +1,6 @@
 # GoProxy - Advanced HTTP/HTTPS Intercepting Proxy
 
-A professional-grade intercepting proxy written in Go, designed for penetration testing and security scanning with advanced rate limiting, throttling, and robustness features that surpass traditional tools like Burp Suite in automation scenarios.
+A professional-grade intercepting proxy written in Go, designed for penetration testing and security scanning with advanced rate limiting, throttling, and robustness features that surpass traditional tools in automation scenarios.
 
 ## 🚀 Key Features
 
