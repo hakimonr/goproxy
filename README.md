@@ -152,7 +152,6 @@ curl -v --cacert burp-ca-cert.pem https://example.com
 **Security Scanner Configuration:**
 1. **Acunetix/Invicti/Netsparker:**
    - Proxy settings: `127.0.0.1:8888`
-   - Import CA certificate to scanner's trust store
    
 2. **Custom Scripts:**
 ```python
